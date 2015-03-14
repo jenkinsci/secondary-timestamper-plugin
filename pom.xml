@@ -11,7 +11,20 @@
   <packaging>hpi</packaging>
   <name>Jenkins secondary timestamper plugin</name>
 
-
+  <scm>
+    <connection>scm:git:ssh://github.com/jenkinsci/secondary-timestamper-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/secondary-timestamper-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/secondary-timestamper-plugin</url>
+  </scm>
+  
+  <developers>
+    <developer>
+      <id>michael1010</id>
+      <name>Michael</name>
+      <email>fussball89@online.de</email>
+    </developer>
+  </developers>
+  
     <repositories>
         <repository>
             <id>repo.jenkins-ci.org</id>
