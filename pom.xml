@@ -10,6 +10,7 @@
   <version>1.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Jenkins secondary timestamper plugin</name>
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/secondary-timestamper-plugin</url>  
 
   <scm>
     <connection>scm:git:ssh://github.com/jenkinsci/secondary-timestamper-plugin.git</connection>
